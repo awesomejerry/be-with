@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/be-with.jar clojure.main -m be-with.server
